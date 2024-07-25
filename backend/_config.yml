@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: John Doe
 language: en
-timezone: ''
+timezone: 'fr'
 auto_category:
  enable: true
  multiple: true
