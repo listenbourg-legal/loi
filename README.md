@@ -1,3 +1,0 @@
-# code\_constitutionelle
-
-"# loi" 
